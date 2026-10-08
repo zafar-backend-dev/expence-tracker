@@ -1,0 +1,6 @@
+{
+  "name": "Bilingual Expense Tracker - Gelir ve Gider Takibi",
+  "description": "Full-featured bilingual (Turkish & English) personal finance and expense tracking application with JWT authentication, transaction analytics, and category management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
